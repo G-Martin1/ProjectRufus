@@ -134,11 +134,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tanulo\\Documents\\GitHub\\ProjectRufus\\projectOne\\projectOne.csproj",
+      "projectUniqueName": "C:\\xampp\\htdocs\\ProjectRufus\\projectOne\\projectOne.csproj",
       "projectName": "projectOne",
-      "projectPath": "C:\\Users\\tanulo\\Documents\\GitHub\\ProjectRufus\\projectOne\\projectOne.csproj",
+      "projectPath": "C:\\xampp\\htdocs\\ProjectRufus\\projectOne\\projectOne.csproj",
       "packagesPath": "C:\\Users\\tanulo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tanulo\\Documents\\GitHub\\ProjectRufus\\projectOne\\obj\\",
+      "outputPath": "C:\\xampp\\htdocs\\ProjectRufus\\projectOne\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
